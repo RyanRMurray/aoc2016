@@ -18,7 +18,7 @@ int main(){
     string code = "";
     string dcode = "";
 
-    //simple switch that checks for exterior collisions
+    //simple switch that checks for exterior collisions on both the square and diamond grids
     for(int i = 0; i < input.size(); i++){
         while(input[i] != '\n' && i < input.size()){
             switch(input[i]){
