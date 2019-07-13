@@ -2,6 +2,7 @@
 #include <fstream>
 #include <vector>
 #include <string>
+#include <sstream>
 using namespace std;
 
 vector<char> read(string filepath){

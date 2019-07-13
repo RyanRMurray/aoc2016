@@ -1,5 +1,4 @@
 #include "../reader.h"
-#include <sstream>
 
 class triangle{
     public:

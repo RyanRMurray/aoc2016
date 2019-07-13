@@ -1,5 +1,4 @@
 #include "../reader.h"
-using namespace std;
 
 int main(){
     vector<char> input = read("input.txt");
